@@ -19,4 +19,4 @@ This is the Request JSON object received from the gateway from users when they s
 This is the Response JSON object sent to users after receiving a Request
 <img width="803" alt="Screenshot 2023-09-25 at 7 17 50 PM" src="https://github.com/lemuel-addy/USSD-Application/assets/98181554/e66d0452-f276-43e4-a811-12baa3b9494d">
 
-Each response sends a USSD menu where by users selection the option the want and send Request back to API with the specified menu in the HTTP POST request.
+Each response sends a USSD menu whereby users select the option they want and send Request back to API with the specified menu option in the HTTP POST request.
